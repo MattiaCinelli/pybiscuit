@@ -1,0 +1,10 @@
+{
+    "project": "project",
+    "package_name": "{{cookiecutter.project.lower().replace(' ', '_')}}",
+    "short_description": "A short description.",
+    "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"],
+    "full_name": "Mattia Cinelli",
+    "github_username": "MattiaCinelli",
+    "author": "{{ cookiecutter.github_username }}",
+    "venv_name": ".venv"
+}
