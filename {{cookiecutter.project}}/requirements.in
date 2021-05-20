@@ -43,4 +43,4 @@ pytest
 
 # Terminal
 rich
-#chime
+chime
